@@ -1,0 +1,16 @@
+15
+32c:\dev\parcel-setup\package.json132959946001832227 0
+37c:\dev\parcel-setup\package-lock.json132959943977329906 0
+30c:\dev\parcel-setup\.gitignore132945097168761482 0
+24c:\dev\parcel-setup\dist132959956703062716 1
+23c:\dev\parcel-setup\src132959955384437950 1
+53c:\dev\parcel-setup\dist\parcel-setup.59712999.js.map132959956703042717 0
+37c:\dev\parcel-setup\src\css\style.css132959956233372083 0
+26c:\dev\parcel-setup\src\js132959954523957662 1
+49c:\dev\parcel-setup\dist\parcel-setup.59712999.js132959956702952705 0
+27c:\dev\parcel-setup\src\css132959955491543646 1
+34c:\dev\parcel-setup\src\index.html132959956115915599 0
+34c:\dev\parcel-setup\src\js\main.js132959955314706603 0
+43c:\dev\parcel-setup\dist\index.c92073ef.css132959956701362721 0
+47c:\dev\parcel-setup\dist\index.c92073ef.css.map132959956701392720 0
+35c:\dev\parcel-setup\dist\index.html132959956701332718 0
