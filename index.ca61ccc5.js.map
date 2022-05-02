@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,SAASC,cAAc,QAAQC,UAAY","sources":["src/js/main.js"],"sourcesContent":["document.querySelector('#app').innerHTML = '<h1>Hello World!</h1>';"],"names":["document","querySelector","innerHTML"],"version":3,"file":"index.ca61ccc5.js.map"}
